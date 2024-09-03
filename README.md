@@ -49,11 +49,11 @@ This repository is designed for aspiring Computer Vision Specialists and deep le
 # Installation
 Clone the repository to your local machine:
 
-```git clone https://github.com/yourusername/deep-learning-tensorflow.git```
+```git clone https://github.com/databyhuseyn/DeepLearning.git```
 
-```cd deep-learning-tensorflow```
+```cd DeepLearning```
 
-№ Contact
+# Contact
 For any questions or suggestions, please reach out to me at mrhuseyn4@gmail.com.
 
 
